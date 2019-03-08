@@ -1,6 +1,8 @@
 # KV
 
-**TODO: Add description**
+KV is a project tutorial provided by Elixir official website
+
+This repo is a submodule to another one, see: https://github.com/NitnekB/ex-getstart-umbrella
 
 ## Installation
 
